@@ -12,7 +12,9 @@ published: false
 
 ![](/images/available_iOS.png)
 
+# 対応策
 
+TargetsのMinimum Deploymentsの設定を変更
 
 
 # 参考
